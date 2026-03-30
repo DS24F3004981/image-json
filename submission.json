@@ -1,0 +1,11 @@
+{
+  "prompt": "Aerial photograph style illustration of a vast jungle canopy viewed from directly above, with three-quarters of the frame filled with dense dark green forest and one quarter consumed by dry cracked brown land spreading inward like a slow wave. The boundary between forest and destruction is jagged and irregular. A thin winding river passes through the remaining green area. The forest appears like a shrinking island surrounded by lifeless land. Deep shadows and natural lighting. Mood: silent loss, irreversible damage, environmental grief. Color palette: deep green, burnt brown, dusty beige. Photorealistic, high detail, cinematic lighting. No text, no labels, no numbers, no charts, no symbols.",
+  
+  "model": "DALL-E 3",
+  
+  "dataset_name": "Amazon Deforestation Data (PRODES)",
+  
+  "dataset_url": "https://terrabrasilis.dpi.inpe.br/downloads/",
+  
+  "insight": "Brazil lost a massive portion of the Amazon rainforest between 2000 and 2020."
+}
